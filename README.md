@@ -16,8 +16,10 @@ Navigate to the configure tab within the UI, select registries, and click 'Add N
 
 Fill in the following fields: 
 
-![anchore-registry](images/anchore-registry-ui.png)
+![anchore-registry](images/anchore-ui-registry.png)
 
-To find the hostname of your Artifactory registry, you can select set me up in the UI and you will see the following popup:
+**Note:** To find the hostname of your Artifactory registry, you can select set me up in the UI and you will see the following popup:
+
+In this example, we can see the hostname for this registry is *anchoredemo-docker.jfrog.io*
 
 ![jfrog-registry](images/artifactory-registry-info.png)
