@@ -28,7 +28,7 @@ In this example, we can see the hostname for this registry is *anchoredemo-docke
 
 ### Scanning an image
 
-**Note:** To find the image repository and tag of a particular image in Artifactory, select the image and tag you would like analyzed and select 'Docker Info' in the Artifactory UI.
+**Note:** To find the image repository and tag of a particular image in Artifactory, select the image and tag you would like analyzed and select the 'Docker Info' tab in the Artifactory UI.
 
 ![image](images/artifactory-image.png)
 
