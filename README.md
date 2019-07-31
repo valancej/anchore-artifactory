@@ -20,6 +20,8 @@ Fill in the following fields to add the private registry to Anchore:
 
 **Note:** To find the hostname of your Artifactory registry, you can select set me up in the UI and you will see the following popup:
 
+**Note:** The username and password fields should be the same credentials you pass via a `docker login`
+
 In this example, we can see the hostname for this registry is *anchoredemo-docker.jfrog.io*
 
 ![jfrog-registry](images/artifactory-registry-info.png)
@@ -27,8 +29,6 @@ In this example, we can see the hostname for this registry is *anchoredemo-docke
 ### Scanning an image
 
 **Note:** To find the image repository and tag of a particular image in Artifactory, select the image and tag you would like analyzed and select 'Docker Info' in the Artifactory UI.
-
-**Note:** The username and password fields should be the same credentials you pass via a `docker login`
 
 ![image](images/artifactory-image.png)
 
