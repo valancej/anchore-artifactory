@@ -1,6 +1,6 @@
 # Using Anchore with JFrog Artifactory
 
-This document will walk through integrating Anchore with jFrog Artifactory. 
+This document will walk through integrating Anchore with JFrog Artifactory. 
 
 ## Prerequisites
 
